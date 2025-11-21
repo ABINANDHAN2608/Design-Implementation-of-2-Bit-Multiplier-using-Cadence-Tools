@@ -45,34 +45,32 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ### Schematicand Symbol of 2-Input AND Gate:
 
-![Screenshot 2025-05-10 160454](https://github.com/user-attachments/assets/7a700f59-c4b4-4006-b791-0a4edf7d1e57)
+![WhatsApp Image 2025-11-17 at 16 46 41_934b6486](https://github.com/user-attachments/assets/ce03dea5-deb1-4a5c-8f8a-60cc952cd88b)
 
 ![Screenshot 2025-05-10 160505](https://github.com/user-attachments/assets/4031c7a7-7c0f-4397-a936-ac4f90c4f402)
 
 ### Schematicand Symbol of 2-Input EX-OR Gate:
 
-![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
+![WhatsApp Image 2025-11-17 at 16 54 17_b891205d](https://github.com/user-attachments/assets/4a55f9f6-48c1-416a-9f8c-9e516002f1e7)
 
 ![Screenshot 2025-05-10 160523](https://github.com/user-attachments/assets/4230854b-5f8e-43d0-9875-258b457660e3)
 
 ### Schematicand Symbol of Half Adder:
-![Screenshot 2025-05-10 160535](https://github.com/user-attachments/assets/5d98f983-d6b7-42b9-8f16-17407b2010b2)
+![WhatsApp Image 2025-11-17 at 16 46 41_54531238](https://github.com/user-attachments/assets/ab0cad77-fbc1-4ff2-8764-7d2a4c082531)
 
 ![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
 
 ### Schematic of 2-Bit Multiplier:
-<img width="1920" height="1080" alt="Screenshot 2025-10-24 160559" src="https://github.com/user-attachments/assets/9d042d80-c5e3-4b5a-b905-e24d3318b0eb" />
-
+![WhatsApp Image 2025-11-17 at 16 42 09_09a5d7cd](https://github.com/user-attachments/assets/08bb6ff7-483d-4aac-b7c7-2c7b6d6ac982)
 
 ## Output
 ### Transient Analysis Output:
-<img width="1920" height="1080" alt="Screenshot 2025-10-24 160545" src="https://github.com/user-attachments/assets/002fdea4-3ed6-4420-8740-4aef1d0054fe" />
-
+![WhatsApp Image 2025-11-17 at 16 42 31_b6f8f895](https://github.com/user-attachments/assets/5a5123f4-a896-4ca9-b46a-be49b24df4ae)
 
 ![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-24 160613" src="https://github.com/user-attachments/assets/3ceeac66-3f5c-4e44-9265-7e2ffbf96b49" />
 
+![Uploading WhatsApp Image 2025-11-17 at 16.41.54_52aae137.jpg…]()
 
 
 Run Time : 200ns
